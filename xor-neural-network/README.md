@@ -12,7 +12,7 @@ Final Prediction:-
 
  Thank you for reading this.Hope You have a great day.
 
- # note i tried just now with sigmoid only as well just enure that you ajust the intial weights * 0.5 and one of the biases to np.ones to get good results and even better result by using relu as activation  and leaky relu as derivative.enure weights and biases are blanced output using relu and leaky relu -
+ # note i tried just now with sigmoid only as well just enure that you ajust the intial weights * 0.5 and one of the biases to np.ones to get good results and even better result by using relu as activation  and leaky relu as derivative.enure weights and biases are blanced. output using relu and leaky relu -
 Final predictions:
 [[0.001]
  [0.999]
